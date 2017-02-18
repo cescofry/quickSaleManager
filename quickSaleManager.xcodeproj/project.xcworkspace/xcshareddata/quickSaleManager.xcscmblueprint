@@ -4,18 +4,20 @@
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "40635794C1929E96A4709153927459486D34FA7B" : 9223372036854775807,
+    "92AF87893551AD3F2DEE78BEF3E924B9C5659E09" : 9223372036854775807,
     "43425688648679ECEC3105C3812E3C82D04FD563" : 9223372036854775807,
     "43C021D2F0E746BBB29CA4E06229F111196D4871" : 9223372036854775807,
     "77528AA6C8B451D66547916CA3CB970C85CBD7B4" : 9223372036854775807,
+    "40635794C1929E96A4709153927459486D34FA7B" : 9223372036854775807,
     "A1E0FEF9F7591B4F9EE468CD23BBCD3197F69115" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CAA855E2-71CC-4807-9ED4-08DE6728ACB2",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "40635794C1929E96A4709153927459486D34FA7B" : "quickSaleManager\/Packages\/Kitura-net-1.4.3\/",
+    "92AF87893551AD3F2DEE78BEF3E924B9C5659E09" : "quickSaleManager\/Packages\/HeliumLogger-1.4.0\/",
     "43425688648679ECEC3105C3812E3C82D04FD563" : "quickSaleManager\/Packages\/Kitura-1.4.4\/",
     "43C021D2F0E746BBB29CA4E06229F111196D4871" : "quickSaleManager\/Packages\/Socket-0.12.30\/",
     "77528AA6C8B451D66547916CA3CB970C85CBD7B4" : "quickSaleManager\/Packages\/SSLService-0.12.21\/",
+    "40635794C1929E96A4709153927459486D34FA7B" : "quickSaleManager\/Packages\/Kitura-net-1.4.3\/",
     "A1E0FEF9F7591B4F9EE468CD23BBCD3197F69115" : "quickSaleManager\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "quickSaleManager",
@@ -41,6 +43,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/IBM-Swift\/BlueSSLService.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "77528AA6C8B451D66547916CA3CB970C85CBD7B4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/IBM-Swift\/HeliumLogger",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "92AF87893551AD3F2DEE78BEF3E924B9C5659E09"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cescofry\/quickSaleManager.git",
