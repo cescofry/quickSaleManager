@@ -22,4 +22,4 @@ let server = Kitura.addHTTPServer(onPort: 8080, with: router)
 
 Kitura.run()
 
-print("Exiting ... [state: \(server.state)]")
+Log.exit("Exiting ... (server state: \(server.state))")
