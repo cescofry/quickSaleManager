@@ -1,1 +1,1 @@
-web: .build/debug/App --workers 3 --bind 0.0.0.0:$PORT
+web: .build/debug/App $PORT
