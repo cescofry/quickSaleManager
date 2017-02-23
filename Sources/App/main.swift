@@ -6,7 +6,7 @@ import HeliumLogger
 
 extension CommandLine {
     static var port: Int? {
-        guard self.arguments.count < 2,
+        guard self.arguments.count >= 2,
             let port = Int(self.arguments[1])
             else {
                 return nil
